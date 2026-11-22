@@ -1,12 +1,12 @@
 # 🌍 Global Military & Defense Encyclopedia
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Web-orange?style=for-the-badge)
+![No Installation Required](https://img.shields.io/badge/Setup-No%20Installation%20Required-brightgreen?style=for-the-badge)
+![Instant Run](https://img.shields.io/badge/Run-S%C4%B0TEY%C4%B0__A%C3%87.html-blue?style=for-the-badge)
+
+> **🚀 Zero Setup Required!**
+> No installation, server, or build tools needed. Simply download the files and double-click **[`SİTEYİ_AÇ.html`](./SİTEYİ_AÇ.html)** to launch the platform directly in your web browser.
 
 A comprehensive, interactive web encyclopedia built to explore, analyze, and compare military forces, combat aircraft, and weapons systems from around the world.
-
----
 
 ## ✨ Key Features
 
@@ -19,8 +19,10 @@ A comprehensive, interactive web encyclopedia built to explore, analyze, and com
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 🌍 Küresel Askeri Güç ve Savunma Ansiklopedisi
 
-🌍 Küresel Askeri Güç ve Savunma Ansiklopedisi
+> **🚀 Kurulum Gerektirmez!**
+> Bu projeyi çalıştırmak için herhangi bir program veya sunucu kurmanıza gerek yoktur. Klasör içerisindeki **`SİTEYİ_AÇ.html`** dosyasına çift tıklayarak doğrudan tarayıcınızda açabilirsiniz.
 
 Dünya genelindeki askeri güçleri, savaş uçaklarını ve silah sistemlerini keşfetmek, incelemek ve karşılaştırmak için geliştirilmiş kapsamlı, interaktif bir web ansiklopedisi.
 
